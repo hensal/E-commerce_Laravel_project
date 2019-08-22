@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row1 {
+    margin-left: 300px;
+    margin-top: 10px;
+    position: relative;
+}
+
+
+.row3 {
+    margin-left: 10px;
+    margin-top: -40px;
+    position: relative;
+}
+
+.col-md-3 {
+    margin-left: 300px;
+    margin-top: 90px;
+}
+
+.col-3 {
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.nav-item dropdown {
+    position: absolute;
+    margin-left: 400px;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+  
+}
+
+.dropdown-item {
+  
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+  #myFooter {
+      background-position: 100%;
+      background-color: dimgray;
+  }

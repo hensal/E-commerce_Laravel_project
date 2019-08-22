@@ -1,0 +1,49 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+.body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(images/company.jpg);
+    color:#ffffff;
+}
+.nav{
+    width: 100%;
+    background:#00341c;
+    height:60px;
+    position: fixed;
+    top: 0;
+    opacity:0.6;
+
+}
+.nav ul{
+    list-style:none;
+    positon:relative;
+
+}
+.nav ul li {
+float: left;
+margin-top: 20px;
+margin-right: 20px;
+}
+.nav-item {
+    position: relative;
+    
+}
+.nav ul li a{
+    width:150px;
+    color:white;
+    display:blcok;
+    text-decoration:none;
+    font-size: 20px;
+    text-allign:center;
+    padding:10px;
+    border-radius: 10px;
+    font-family: Century Gothic;
+    font-weight:bold;
+}
+a:hover{
+    background:#C0C0C0;
+    transition:0.6s;
+}
